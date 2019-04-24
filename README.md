@@ -1,7 +1,7 @@
-
 [![latest version](https://img.shields.io/badge/version-0.10.1-yellow.svg)](https://github.com/appbaseio/abc/releases/latest)
 [![Go Report Card](https://goreportcard.com/badge/github.com/appbaseio/abc)](https://goreportcard.com/report/github.com/appbaseio/abc)
-[![Travis branch](https://img.shields.io/travis/appbaseio/abc/dev.svg)]()
+[![Travis branch](https://img.shields.io/travis/appbaseio/abc/dev.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fabc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fabc?ref=badge_shield)
+()
 [![license](https://img.shields.io/github/license/appbaseio/abc.svg)]()
 
 
@@ -261,3 +261,6 @@ Want to help out with ABC? Great! There are instructions to get you started [her
 ### 6.2 Licensing
 
 ABC's oss variant is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for full license text. ABC's !oss (read non-oss) variant which includes the `abc import` command and bundled in the binary is free to use while in beta.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fabc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fabc?ref=badge_large)
